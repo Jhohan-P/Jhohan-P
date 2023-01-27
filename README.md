@@ -1,6 +1,6 @@
 # Olá Pessoal :smiley:
 
-Meu nome e jhohan, atualmente trabalho como entregador do ifood, estou fazendo o curso de programação da cubos acadamy que ganhei a bolsa do ifood, o curso já esta na reta final falta apenas 4 meses, já estou procurando trabalho na área da programação como dev back-end jr.
+Meu nome é Jhohan, atualmente estou trabalhando como entregador do ifood. Estou fazendo o curso de programação da Cubos Academy, que ganhei a bolsa do Ifood. O curso já está na reta final, faltam apenas 4 meses, por isso, estou procurando uma vaga de emprego na área da programação como dev back-end jr.
 
 ### Para me encontrar:
 
